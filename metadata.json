@@ -1,0 +1,6 @@
+{
+  "name": "Sinh Nhat Dang Gia Hung",
+  "description": "Web app minigame chuc mung sinh nhat ban than Dang Gia Hung voi 3 ai thu thach hai huoc va tiec sinh nhat ruc ro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
